@@ -1,11 +1,14 @@
 Made by Carlos Iagnecz in 2024 (v1.0)
 
+-----------------
+
 How to use:
 
 1. For what?
 2. File Types
 3. Individualism
 
+-----------------
 
 1. For what?:
 This program was made for usage of the Mode 1 (bitmap mode) of the Sega 32x in the Sonic Mars decomp
