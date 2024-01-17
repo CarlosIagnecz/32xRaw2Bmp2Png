@@ -6,6 +6,7 @@ How to use:
 2. File Types
 3. Individualism
 
+
 1. For what?:
 This program was made for usage of the Mode 1 (bitmap mode) of the Sega 32x in the Sonic Mars decomp
 
